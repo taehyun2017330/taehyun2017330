@@ -12,6 +12,9 @@
   <a href="https://github.com/taehyun2017330/CV/raw/main/Taehyun_CV.pdf">📄 CV</a>
   ·
   <a href="mailto:taehyun2017330@gmail.com">📩 Email</a>
+   ·
+  <a href="https://www.linkedin.com/in/%ED%83%9C%ED%98%84-%EC%96%91-055a4824a/">🔖 Linkedin</a>
+  
 </p>
 
 ---
