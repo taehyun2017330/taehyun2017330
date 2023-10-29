@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#">🌐 Website (coming soon)</a>
   ·
-  <a href="https://github.com/taehyun2017330/CV/blob/54a018e5c110ee82ce4a14c004bf6c46fd637836/Taehyun_CV.pdf">📄 CV</a>
+  <a href="https://github.com/taehyun2017330/CV/raw/main/Taehyun_CV.pdf">📄 CV</a>
   ·
   <a href="mailto:taehyun2017330@gmail.com">📩 Email</a>
 </p>
