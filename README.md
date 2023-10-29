@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm [Your Name]! 👋</h1>
+<h1 align="center">Hello there, I'm Taehyun Yang! 👋</h1>
 
 <p align="center">
   <strong>📚 Undergraduate Student of CSE and Business Administration at Seoul National University</strong>
@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#">🌐 Website (coming soon)</a>
   ·
-  <a href="https://hyeonword.com/cv/cv.pdf">📄 CV</a>
+  <a href="https://github.com/taehyun2017330/CV/blob/54a018e5c110ee82ce4a14c004bf6c46fd637836/Taehyun_CV.pdf">📄 CV</a>
   ·
   <a href="mailto:taehyun2017330@gmail.com">📩 Email</a>
 </p>
