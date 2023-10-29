@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Taehyun Yang! 👋</h1>
+<h1 align="center">Hey there, I'm Taehyun Yang! 👋</h1>
 
 <p align="center">
   <strong>📚 Undergraduate Student of CSE and Business Administration at Seoul National University</strong>
