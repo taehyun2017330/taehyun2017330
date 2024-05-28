@@ -19,6 +19,6 @@
 
 ---
 
-I'm deeply passionate about creating meaningful interactions between humans and computers. My academic journey in **Computer Science and Engineering** has given me interest for **Data Visualization** and **Machine Learning**. Currently, I am diving into research that innovates ways for users to easily utilize unsupervised learning techniques like dimensionality reduction or visualization clustering. I am always eager to collaborate, learn, and grow, aspiring to make my own modest contribution towards the shoulders of giants.💡
+I'm deeply passionate about creating meaningful interactions between humans and computers. My academic journey in **Computer Science and Engineering** has given me interest for **Data Visualization**, **Huamn AI Interaction**, and **System Building**.
 
 ---
