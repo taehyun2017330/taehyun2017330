@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Taehyun Yang! 👋</h1>
 
 <p align="center">
-  <strong>📚 Undergraduate Student of Computer Science & Engineering and Business Administration at Seoul National University. Previously majorred in Computer Engineering at UIUC</strong>
+  <strong>📚 upcoming Ph.D. student in Computer Science at University of Maryland</strong>
   <br>
   Specializing in <strong>Data Visualization</strong> within <strong>Human-Computer Interaction</strong>
 </p>
