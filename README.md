@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Taehyun Yang! 👋</h1>
 
 <p align="center">
-  <strong>📚 upcoming Ph.D. student in Computer Science at University of Maryland</strong>
+  <strong>📚 Ph.D. student in Computer Science at University of Maryland</strong>
   <br>
   Specializing in <strong>Data Visualization</strong> within <strong>Human-Computer Interaction</strong>
 </p>
