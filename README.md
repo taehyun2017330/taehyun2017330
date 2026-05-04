@@ -17,8 +17,3 @@
   
 </p>
 
----
-
-I'm deeply passionate about creating meaningful interactions between humans and computers. My academic journey in **Computer Science and Engineering** has given me interest for **Data Visualization**, **Huamn AI Interaction**, and **System Building**.
-
----
